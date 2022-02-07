@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tuzzy08/tuzzy08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![github](https://user-images.githubusercontent.com/31445077/87033150-57166f80-c203-11ea-990c-71a1e0d34ff4.png)
+### 👋 Hi there 
+I am a software developer with interest in building blockchain applications and smart contracts👨‍💻. 
+
+- 🔭 I’m currently working on Solidity, Nodejs, NextJS, NestJS.
+- 🌱 I’m currently learning ...Advanced Solidity
+- ⚡ Currently Working at Royles Solutions.
+<!-- - 💬 Read out my blogs on [Journal](https://journaldev.netlify.app) -->
+
+### 📫 Reach me at 
+![Twitter Follow](https://img.shields.io/twitter/follow/sage_iche?style=social)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/david-lawrence-694aa729/)
+
