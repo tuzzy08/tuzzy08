@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ### 👋 Hi there 
-I am a software developer with interest in building blockchain applications and smart contracts👨‍💻. 
+I'm a software developer, Technical writer with experience in the development and deployment of applications and services. Currently foraging blockchain technology and smart contracts👨‍💻. 
 
 - 🔭 I’m currently working on Solidity, Nodejs, NextJS, NestJS.
-- 🌱 I’m currently learning ...Advanced Solidity
+- 🌱 I’m currently learning ...Blockchain, Solidity
 - ⚡ Currently Working at Royles Solutions.
-<!-- - 💬 Read out my blogs on [Journal](https://journaldev.netlify.app) -->
+- 💬 Read my articles on [Hashnode](https://thesage.hashnode.dev)
 
 ### 📫 Reach me at 
 ![Twitter Follow](https://img.shields.io/twitter/follow/sage_iche?style=social)
