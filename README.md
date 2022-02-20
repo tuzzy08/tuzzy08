@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi there 
-I'm a software developer, Technical writer with experience in the development and deployment of applications and services. Currently foraging blockchain technology and smart contracts👨‍💻. 
+### 👋 David Lawrence
+A software developer, Technical writer with experience in the development and deployment of applications and services. Currently foraging blockchain technology and smart contracts👨‍💻. 
 
 - 🔭 I’m currently working on Solidity, Nodejs, NextJS, NestJS.
 - 🌱 I’m currently learning ...Blockchain, Solidity
