@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### 👋 David Lawrence
-A software developer, Technical writer with experience in the development and deployment of applications and services. Currently foraging blockchain technology and smart contracts👨‍💻. 
+A software developer, Technical writer, with experience in the development and deployment of cloud native applications and services that scale. Currently foraging blockchain technology and smart contracts👨‍💻. 
 
 - 🔭 I’m currently working with Solidity, Nodejs, NextJS, NestJS.
 - 🌱 I’m currently learning ...Blockchain, Solidity
