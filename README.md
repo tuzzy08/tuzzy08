@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### 👋 David Lawrence
 A software developer, Technical writer, with experience in the development and deployment of cloud native applications and services that scale. Currently foraging blockchain technology and smart contracts👨‍💻. 
 
-- 🔭 I’m currently working with Solidity, Nodejs, NextJS, NestJS.
+- 🔭 I’m currently working with Typescript, Solidity, AWS, Nodejs, NextJS, NestJS, Docker, Kubernetes, Serverless.
 - 🌱 I’m currently learning ...Blockchain, Solidity
 - ⚡ Currently Working at Royles Solutions.
 - 💬 Read my articles on [Hashnode](https://thesage.hashnode.dev)
