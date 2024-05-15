@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ### 👋 David Lawrence
-A software developer, Technical writer, with experience in the development and deployment of cloud native applications and services that scale. Currently foraging blockchain technology and smart contracts👨‍💻. 
+A fullstack software developer, Technical writer and mentor. Experienced in the development and deployment of frontend, backend, mobile and cloud native applications and services that scale. Currently foraging AI & blockchain technology👨‍💻. 
 
-- 🔭 I’m currently working with Typescript, Solidity, AWS, Nodejs, NextJS, NestJS, Docker, Kubernetes, Serverless.
-- 🌱 I’m currently learning ...Blockchain, Solidity
-- ⚡ Currently Working at Royles Solutions.
-- 💬 Read my articles on [Hashnode](https://thesage.hashnode.dev)
+- 💬 Languages - Javascript, Typescript, Python, Solidity.
+- 🌱 Frameworks & Technologies - React, Tailwind, NextJs, React Native, Expo, Nodejs, NestJs, Express, Docker, AWS.
+- 🔭 Read my articles on [Hashnode](https://thesage.hashnode.dev), [dev.to](https://dev.to/tuzzy08)
 
 ### 📫 Reach me at 
 ![Twitter Follow](https://img.shields.io/twitter/follow/sage_iche?style=social)
