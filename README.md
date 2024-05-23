@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### 👋 David Lawrence
-A fullstack software developer, Technical writer and mentor. Experienced in the development and deployment of frontend, backend, mobile and cloud native applications and services that scale. Currently foraging AI & blockchain technology👨‍💻. 
+A software engineer, Technical writer and mentor. Experienced in the development and deployment of frontend, backend, mobile and cloud native applications and services that scale. Currently foraging AI & blockchain technology👨‍💻. 
 
 - 💬 Languages - Javascript, Typescript, Python, Solidity.
 - 🌱 Frameworks & Technologies - React, Tailwind, NextJs, React Native, Expo, Nodejs, NestJs, Express, Docker, AWS.
