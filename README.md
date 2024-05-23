@@ -22,5 +22,5 @@ A Software engineer, Technical writer and Mentor. Experienced in the development
 
 ### 📫 Reach me at 
 ![Twitter Follow](https://img.shields.io/twitter/follow/sage_iche?style=social)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/david-lawrence-694aa729/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/david-lawrence-694aa729/) 
 
